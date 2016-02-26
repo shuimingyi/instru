@@ -1,16 +1,8 @@
 /*
- * libirecovery.c
+ * irecovery.c
  * Communication to usbtmc devices via USB on Mac OS
  *
- * Copyright (c) 2012-2015 Martin Szulecki <martin.szulecki@libimobiledevice.org>
- * Copyright (c) 2010 Chronic-Dev Team
- * Copyright (c) 2010 Joshua Hill
- * Copyright (c) 2008-2011 Nicolas Haunold
- *
- * All rights reserved. This program and the accompanying materials
- * are made available under the terms of the GNU Lesser General Public License
- * (LGPL) version 2.1 which accompanies this distribution, and is available at
- * http://www.gnu.org/licenses/lgpl-2.1.html
+ * Copyright (c) 2016 shuimingyi <shuimingyi@yahoo.com>
  *
  * This library is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
